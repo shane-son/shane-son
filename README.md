@@ -1,4 +1,11 @@
-## 반갑습니다 👋
+## open_repo
+
+이것은 open 레포지토리입니다.
+오픈소스에 많이 기여해주세요.
+
+about 오픈소스...
+  - 신경망 인공지능 모델입니다.
+  - 파이썬으로 개발합니다.
 
 <!--
 **shane-son/shane-son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
